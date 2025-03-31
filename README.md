@@ -69,4 +69,4 @@ just destroy
 - The deployment uses PowerShell for Windows compatibility
 - Resource group deletion is asynchronous (--no-wait flag)
 - Make sure you have the necessary permissions in your Azure subscription
-- The blog.just file is for reference only. It is discussed in the blog post.
+- The blog.just file is for reference only. It is discussed in the blog post [Just Your Commands](https://www.dariuszparys.com/just-your-commands)
